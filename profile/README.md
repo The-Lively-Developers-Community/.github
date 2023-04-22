@@ -1,3 +1,5 @@
+<h1 align="center"> The-Lively-Developers-Community - We love Open Source:heart: </h1>
+
 # Welcome to the Lively Developers Community!
 
 We are a community of passionate developers who come together to share ideas, collaborate on projects, and learn from each other. This is a space where developers of all levels can come together and create something amazing.
@@ -17,7 +19,9 @@ Join our community now by creating a [new issue here](https://github.com/The-Liv
 Whatever your interests or experience level, we welcome you to join our community and start collaborating with other developers.
 
 ## Connect with us
+<a href = "https://discord.gg/z993fVJ2sb"><img src = "https://img.icons8.com/color/344/discord-logo.png" style ="height:4%; width:4%;"></a>
 
+## 
 Check out our [GitHub page](https://github.com/The-Lively-Developers-Community) to see our open-source projects.
 
 Thank you for joining the Lively Developers Community! We look forward to collaborating with you.
